@@ -1,0 +1,11 @@
+{
+  "name": "hello-promise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nonocast/hello-promise.git",
+  "author": "Hui Cao <nonocast@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app"
+  }
+}
